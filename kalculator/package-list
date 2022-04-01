@@ -1,0 +1,22 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:me.thunderbiscuit.kalculator////PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/index.html
+$dokka.location:me.thunderbiscuit.kalculator/Kalculator///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-kalculator/index.html
+$dokka.location:me.thunderbiscuit.kalculator/Kalculator/Kalculator/#/PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-kalculator/-kalculator.html
+$dokka.location:me.thunderbiscuit.kalculator/Kalculator/add/#kotlin.Int#kotlin.Int/PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-kalculator/add.html
+$dokka.location:me.thunderbiscuit.kalculator/Kalculator/greetings/#kotlin.String/PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-kalculator/greetings.html
+$dokka.location:me.thunderbiscuit.kalculator/Kalculator/surprise/#/PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-kalculator/surprise.html
+$dokka.location:me.thunderbiscuit.kalculator/Manufacturers.Casio///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-manufacturers/-casio/index.html
+$dokka.location:me.thunderbiscuit.kalculator/Manufacturers.TexasInstruments///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-manufacturers/-texas-instruments/index.html
+$dokka.location:me.thunderbiscuit.kalculator/Manufacturers///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-manufacturers/index.html
+$dokka.location:me.thunderbiscuit.kalculator/Manufacturers/model/#/PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-manufacturers/model.html
+$dokka.location:me.thunderbiscuit.kalculator/MathCourse.MATH101///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-math-course/-m-a-t-h101/index.html
+$dokka.location:me.thunderbiscuit.kalculator/MathCourse.MATH102///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-math-course/-m-a-t-h102/index.html
+$dokka.location:me.thunderbiscuit.kalculator/MathCourse.MATH201///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-math-course/-m-a-t-h201/index.html
+$dokka.location:me.thunderbiscuit.kalculator/MathCourse.MATH202///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-math-course/-m-a-t-h202/index.html
+$dokka.location:me.thunderbiscuit.kalculator/MathCourse///PointingToDeclaration/kalculator/me.thunderbiscuit.kalculator/-math-course/index.html
+$dokka.location:me.thunderbiscuit.utils////PointingToDeclaration/kalculator/me.thunderbiscuit.utils/index.html
+$dokka.location:me.thunderbiscuit.utils//printAvailableModels/#/PointingToDeclaration/kalculator/me.thunderbiscuit.utils/print-available-models.html
+me.thunderbiscuit.kalculator
+me.thunderbiscuit.utils
+
